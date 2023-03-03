@@ -30,8 +30,8 @@ print()
 password2='Elmasri##2'
 print()
 
-gcv=input("\033[2;36mThe Number Of Flex :")
-print()
+gcv=input("\033[2;36mThe Number Of Fle :")
+print() 
 
 qwe=13000
 zxc=100
