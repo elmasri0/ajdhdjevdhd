@@ -20,6 +20,23 @@ print(Z+os)
 print('_'*65)
 
 os=("by: MR ALAA")
+y=input('eter your password:')
+
+if str('y') == str(Elmasri):
+
+   	print('ok')        
+
+else:
+
+	print('\033[2;35mThe order has been cancelled ')
+
+	print('\033[2;31m_'*65)
+
+	hhhhgg
+
+	hhhyo
+
+	jfkfifjfj
 
 number='01008673495'
 print()
