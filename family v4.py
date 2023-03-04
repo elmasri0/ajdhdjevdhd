@@ -22,7 +22,7 @@ print('_'*65)
 os=("by: MR ALAA")
 y=input('eter your password:')
 
-if str('Elmasri') == str(Elmasri):
+if str('Elmasri') == str(y):
 
    	print('ok')        
 
