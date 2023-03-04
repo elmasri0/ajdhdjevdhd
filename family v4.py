@@ -44,7 +44,7 @@ password="Elmasri##2"
 print()
 number2=input(" \033[2;32mEnter Your Number :")
 print()
-password2='Kings123@1'
+password2=input('Kings123@1')
 print()
 
 gcv=input("\033[2;36mThe Number Of Fle :")
